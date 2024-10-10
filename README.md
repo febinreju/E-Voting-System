@@ -52,7 +52,4 @@ This project is a simple **E-Voting System** built with Python using the `tkinte
 
 1. Clone this repository or download the source code.
 2. Navigate to the project folder in your terminal or command prompt.
-3. Run the following command to start the application:
-
-   ```bash
-   python evoting_system.py
+3. Run the code
