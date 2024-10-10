@@ -1,4 +1,3 @@
-description = """
 # E-Voting System using Python (Tkinter)
 
 This project is a simple **E-Voting System** built with Python using the `tkinter` library for the graphical user interface (GUI). The system allows voters to register, cast their votes for different candidates, and view election results in real-time. The goal of the project is to simulate a voting system that ensures each voter can cast their vote only once.
